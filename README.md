@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Fortran.
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 Unavailable 😢
+- 📫 Mail me at ankushbhowmik670@gmail.com 😢
 
 <!---
 Kasper-GitHub/Kasper-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
