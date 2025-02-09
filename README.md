@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kasper-GitHub
+- 👋 Hi, I’m Ankush Bhowmik (@Kasper-GitHub)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python, Fortran.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Unavailable 😢
 
