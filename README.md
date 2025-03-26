@@ -68,7 +68,7 @@ A collection of numerical methods written in Fortran, including:
 ### 📫 **Contact Me**
 - 💻 GitHub: [Kasper-GitHub](https://github.com/Kasper-GitHub)  
 - 📧 Email: ankushbhowmik670@gmail.com  
-- 🌐 Website: [Portfolio](https://kasper-github.github.io/Portfolio/)
+- 🌐 Website: [ankushbhowmik.in](https://ankushbhowmik.in/)
 
 ---
 
